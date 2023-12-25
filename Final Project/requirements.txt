@@ -1,0 +1,7 @@
+pip install pycopy-urllib.parse
+pip install nltk
+pip install newspaper3k
+pip install gTTS
+pip install requests
+pip install bs4
+
