@@ -78,7 +78,7 @@ Go ahead and take a peek at the solutions.
   * [Final Project](https://github.com/alirezarpa/Tic-Tac-Toe)
 
 
-I finished this course on September 17, 2022.
+I finished this course on December 21, 2022.
 The picture below shows my certificate after completing all the assignments:
 
 ![cs50p](img/cs50p.jpg)
