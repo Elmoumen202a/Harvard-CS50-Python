@@ -2,8 +2,8 @@ Harvard CS50p — 2022 Solutions 😎
 =====================
 
 -   [Course Link](https://cs50.harvard.edu/python/2022/)
--   [My Certificate](https://cs50.harvard.edu/certificates/6315f067-7b65-481b-9297-ef151fe33ce5)
--   [Final Project](https://github.com/alirezarpa/Tic-Tac-Toe)
+-   [My Certificate](https://certificates.cs50.io/b1b40aca-5873-48f4-b612-21cd620c7ef1.pdf?size=letter)
+-   [Final Project](https://github.com/Elmoumen202a/Harvard-CS50-Python/tree/main/Final%20Project)
 
 ## What is it?
 
@@ -74,8 +74,8 @@ Go ahead and take a peek at the solutions.
   * [Seasons of Love](/Week8/seasons)
   * [Cookie Jar](/Week8/jar)
   * [CS50 Shirtificate](/Week8/shirtificate)
-- [Problem Set9: Et Cetera](https://github.com/alirezarpa/Tic-Tac-Toe)
-  * [Final Project](https://github.com/alirezarpa/Tic-Tac-Toe)
+- [Problem Set9: Et Cetera](https://github.com/Elmoumen202a/Harvard-CS50-Python/tree/main/Final%20Project)
+  * [Final Project](https://github.com/Elmoumen202a/Harvard-CS50-Python/tree/main/Final%20Project)
 
 
 I finished this course on December 21, 2022.
